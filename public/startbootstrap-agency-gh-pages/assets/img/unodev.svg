@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="228.66in"
+   height="39in"
+   viewBox="0 0 5807.9638 990.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="unodev.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.030935922"
+     inkscape:cx="3674.5256"
+     inkscape:cy="3919.7428"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="in"
+     width="228.66in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1224.77px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';fill:#ffb300;fill-opacity:1;stroke-width:12.7578"
+       x="-30.414328"
+       y="938.15674"
+       id="text835"
+       transform="scale(1.0623362,0.94132159)"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="-30.414328"
+         y="938.15674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1224.77px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';fill:#ffb300;fill-opacity:1;stroke-width:12.7578">Uno Dev</tspan></text>
+  </g>
+</svg>
